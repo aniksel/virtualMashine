@@ -1,0 +1,9 @@
+set 22 5
+set 23 4
+nok 22 23 24
+output1 24
+fib 22 25
+output1 25
+fib 23 26
+output1 26
+
